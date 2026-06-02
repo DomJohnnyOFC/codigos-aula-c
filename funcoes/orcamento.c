@@ -6,7 +6,7 @@ int main() {
     float kitMouseTeclado = 149.90;
     float monitor = 679.90;
     float memoriaRAM = 199.90;
-    float ssd = 249.90;
+    float ssd = 250.90;
 
     float total, totalVista, parcela;
     float valorPorPessoaVista, valorPorPessoaParcelado;
