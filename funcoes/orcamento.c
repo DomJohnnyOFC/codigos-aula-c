@@ -20,7 +20,7 @@ int main() {
     valorPorPessoaVista = totalVista / 6;
     valorPorPessoaParcelado = total / 6;
 
-    printf("~~~ ORCAMENTO DO COMPUTADOR GAMER ~~~\n\n");
+    printf("~~~ ORCAMENTO DO COMPUTADOR GAMER PARA COMPRAR COM O PRIMEIRO SALARIO ~~~\n\n");
 
     printf("Placa de video: R$ %.2f\n", placaVideo);
     printf("Caixa de som: R$ %.2f\n", caixaSom);
